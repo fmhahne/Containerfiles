@@ -1,0 +1,2 @@
+FROM ghcr.io/github/pages-gem
+RUN gem install faraday-retry webrick
